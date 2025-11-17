@@ -1,0 +1,6 @@
+# Deny all access to laravel-core folder
+# Place this file in /home/username/laravel-core/.htaccess
+
+Order deny,allow
+Deny from all
+
